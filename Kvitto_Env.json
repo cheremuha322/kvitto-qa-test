@@ -1,0 +1,22 @@
+{
+	"id": "eb4b42a2-6d44-4a61-8612-ddcc6c4a5a2b",
+	"name": "Kvitto Env",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "payment_id",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"color": 240,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-10-08T17:24:04.156Z",
+	"_postman_exported_using": "Postman/12.31.3"
+}
